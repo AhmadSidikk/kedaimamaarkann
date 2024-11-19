@@ -221,7 +221,7 @@ footer p {
 
     .product-list {
         flex-direction: column;
-        text-align: center;
+        place-content: center;
     }
 
     .testimonials {
